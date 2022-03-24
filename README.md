@@ -7,4 +7,4 @@ Criação de um card de pokemon, onde ao selecionarmos os personagens fazemos o 
 - CSS
 - JAVASCRIPT
 
-[<img src="src/imagens/pokemon.gif" alt="gif da tela inicial">](https://github.com/Roni-88)
+[<img src="src/imagens/pokemon.gif" alt="gif da tela inicial">](https://roni-88.github.io/cartao-pokemon/)
